@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20240421</CreaDate><CreaTime>22351800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\Contour" Date="20240421" Time="223518">Contour MDE_SRTM1.tif C:\Users\GEOMATICA\Curso_Geomatica\06_BGR_Geomatica\Datos\Shp\Curva_nivel_10m.shp 10 0 1 CONTOUR #</Process></lineage></DataProperties></Esri><contour_type>CONTOUR</contour_type></metadata>
